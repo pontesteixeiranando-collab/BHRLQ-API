@@ -1,0 +1,14 @@
+{
+  "name": "bhrlq-guild-api",
+  "version": "1.0.0",
+  "private": true,
+  "description": "API independente para gerenciamento da guilda BHRLQ",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
